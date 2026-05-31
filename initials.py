@@ -1,6 +1,4 @@
-
-def main():
-  pass # File: initials.py
+# File: initials.py
 # Description: Print out my initials in large stylized letters.
 # Assignment Number: 1
 #
